@@ -41,21 +41,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:nguy4006@umn.edu.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nguyenllpsych
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9XecYYYAAAAJ&hl=en
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/nguyenllpsych
+  link: https://orcid.org/0000-0002-1575-0395
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
