@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Personality, Individual Differences, Behavior Genetics
     institution: University of Minnesota - Twin Cities
-    year: 2024 (expected)
+    year: 2024 
   - course: BA in Psychology and French
     institution: St. John's University
     year: 2019
